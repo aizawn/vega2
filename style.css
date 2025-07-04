@@ -1,0 +1,64 @@
+h1 {
+    color: #4e006a; /* Green color for the heading */
+    text-align: center; /* Center the heading */
+    font-family: "Emilys Candy";
+}
+body {
+    background-color: #ebc4f5; /* Light gray background for the body */
+    margin: 0; /* Remove default margin */
+    padding: 20px; /* Add some padding around the content */
+}
+#p1 {
+    color: #333; /* Dark gray color for the paragraph */
+    font-size: 1.2em; /* Slightly larger font size for better readability */
+    text-align: center; /* Center the paragraph */
+    margin-top: 30px; /* Add some space above the paragraph */
+    font-family: "DynaPuff"; /* Use a cursive font for the paragraph */
+    line-height: 1.5; /* Increase line height for better readability */
+    max-width: 600px; /* Limit the width of the paragraph for better readability */
+    margin-left: auto; /* Center the paragraph horizontally */
+    padding: 20px; /* Add some padding around the paragraph */
+    
+}
+
+#p2 {
+    color: #333; /* Green color for the second paragraph */
+    text-align: center; /* Center the second paragraph */
+    font-family: "DynaPuff"; /* Use the same font as the heading */
+    margin-top: 20px; /* Add some space above the second paragraph */
+}
+
+#p3 {
+    color: #333; /* Dark gray color for the third paragraph */
+    text-align: center; /* Center the third paragraph */
+    font-family: "DynaPuff"; /* Use the same font as the heading */
+    margin-top: 20px; /* Add some space above the third paragraph */
+}
+
+#p4 {
+    color: #333; /* Dark gray color for the fourth paragraph */
+    text-align: center; /* Center the fourth paragraph */
+    font-family: "DynaPuff"; /* Use the same font as the heading */
+    margin-top: 20px; /* Add some space above the fourth paragraph */
+}
+button {
+    text-align: center; /* Center the text inside the button */
+    font-family: "DynaPuff"; /* Use the same font as the paragraphs */
+    font-size: 25px; /* Increase the font size of the button */
+    background-color: grey; /* Set the background color of the button */
+    color: black; /* Set the text color of the button */
+    border-radius: 25px; /* Make the button corners rounded */
+    padding: 10px 20px; /* Add some padding to the button */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+#p5 {
+    color: #333; /* Dark gray color for the fifth paragraph */
+    text-align: center; /* Center the fifth paragraph */
+    font-family: "DynaPuff"; /* Use the same font as the heading */
+    margin-top: 20px; /* Add some space above the fifth paragraph */
+    font-size: 1.2em; /* Slightly larger font size for better readability */
+    line-height: 1.5; /* Increase line height for better readability */
+    max-width: 600px; /* Limit the width of the paragraph for better readability */
+    margin-left: auto; /* Center the paragraph horizontally */
+    padding: 20px; /* Add some padding around the paragraph */
+}
